@@ -1,5 +1,6 @@
 <template>
     <div class="container">
+        Прикол
         <button type="button" class="btn btn-primary">{{ msg }}</button>
     </div>
 </template>
