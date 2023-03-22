@@ -14,7 +14,7 @@ CORS(app)
 # sanity check route
 @app.route('/users', methods=['GET'])
 def ping_pong():
-    return jsonify('pong!')
+    return jsonify('Првиет!')
 
 if __name__ == '__main__':
     app.run()
