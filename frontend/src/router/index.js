@@ -1,11 +1,11 @@
 import { createWebHistory, createRouter } from "vue-router";
-import UsersPage from "@/components/UsersPage";
+import AuthForm from "@/components/AuthForm";
 
 const routes = [
     {
-        path: "/",
-        name: "UsersPage",
-        component: UsersPage,
+        path: "/education_system/",
+        name: "AuthForm",
+        component: AuthForm,
     },
 ];
 

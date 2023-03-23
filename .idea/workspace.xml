@@ -29,13 +29,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../city_literacy/city_literacy_2023_6_1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ae48c128-a331-4e36-a736-10ac17be291e" name="Default Changelist" comment="" />
@@ -60,5 +63,24 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="736" y="318" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1679489843133">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="736" y="318" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1679489843133" />
+    <state x="739" y="258" key="FileChooserDialogImpl" timestamp="1679491199694">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="739" y="258" key="FileChooserDialogImpl/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1679491199694" />
+    <state x="825" y="414" width="624" height="204" key="Github.ShareDialog" timestamp="1679489820348">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="825" y="414" width="624" height="204" key="Github.ShareDialog/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1679489820348" />
+    <state x="594" y="228" width="849" height="604" key="Github.UntrackedFilesDialog" timestamp="1679489830554">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="594" y="228" width="849" height="604" key="Github.UntrackedFilesDialog/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1679489830554" />
   </component>
 </project>

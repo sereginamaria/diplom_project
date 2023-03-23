@@ -1,3 +1,4 @@
+#!D:\Python\python.exe
 from flask import Flask, jsonify
 from flask_cors import CORS
 
@@ -12,9 +13,10 @@ app.config.from_object(__name__)
 CORS(app)
 
 # sanity check route
-@app.route('/users', methods=['GET'])
+@app.route('/users', methods=['POST'])
 def ping_pong():
     return jsonify('Првиет!')
 
 if __name__ == '__main__':
     app.run()
+
