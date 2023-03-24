@@ -49,7 +49,7 @@
         },
         methods: {
             loginUser(){
-                axios.get("http://localhost:8090/auth", {
+                axios.get("http://localhost:8090/users", {
                     login: this.login,
                     password: this.password
                 })
@@ -58,7 +58,7 @@
                     })
                     .catch(function () {
                     })
-                axios.get("http://localhost:8070/users", {
+                axios.get("http://localhost:8070/auth", {
                     login: this.login,
                     password: this.password
                 })
