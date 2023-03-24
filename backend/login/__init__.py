@@ -5,9 +5,9 @@ app = Flask(__name__)
 # enable CORS
 CORS(app)
 
-@app.route('/users', methods=['GET'])
+@app.route('/auth', methods=['GET'])
 def hello_world():
-    return jsonify('users!!!!!')
+    return jsonify('Првиет!')
 
 if __name__ == "__main__":
     app.run()

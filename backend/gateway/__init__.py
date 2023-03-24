@@ -5,7 +5,7 @@ app = Flask(__name__)
 # enable CORS
 CORS(app)
 
-@app.route('/auth', methods=['GET'])
+@app.route('/users', methods=['GET'])
 def hello_world():
     return jsonify('Првиет!')
 
