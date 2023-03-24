@@ -18,7 +18,7 @@ module.exports = {
         patterns: [
           {
             from: path.resolve(__dirname, "../backend/"),
-            to: path.resolve(__dirname, "../../education_system/backend/"),
+            to: path.resolve(__dirname, "../../education_system_backend"),
           },
         ],
       }),

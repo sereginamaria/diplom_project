@@ -49,7 +49,16 @@
         },
         methods: {
             loginUser(){
-                axios.post("http://127.0.0.1:5000/users", {
+                axios.get("http://localhost:8090/auth", {
+                    login: this.login,
+                    password: this.password
+                })
+                    .then(function (response) {
+                        console.log(response)
+                    })
+                    .catch(function () {
+                    })
+                axios.get("http://localhost:8070/users", {
                     login: this.login,
                     password: this.password
                 })
