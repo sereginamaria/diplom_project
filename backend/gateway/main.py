@@ -1,4 +1,3 @@
-#!D:\Python\python.exe
 import flask
 from flask import request, jsonify, Response
 from flask_cors import CORS
